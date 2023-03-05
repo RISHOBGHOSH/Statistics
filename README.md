@@ -2,9 +2,9 @@
 
 The topics covered in this folder include but are not limited to:
 
-Descriptive statistics
-Inferential statistics
-Probability theory
+-Descriptive statistics
+-Inferential statistics
+-Probability theory
 Hypothesis testing
 Confidence intervals
 Regression analysis
